@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": "index.js",
   "dependencies": {
     "axios": "^0.18.0",
     "streamr-client": "^0.12.2"
